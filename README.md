@@ -1,8 +1,9 @@
-# Readme Generator
+# readme-generator
 
 
   ## Description
-  answer a few brief questions, and this generates a Readme
+  Writes a brief readme for your application
+  ![Readme Image](./assets/Capture1.JPG)
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,21 +20,21 @@
 
   ## Installation
   To install: 
-  install node.js, download the Readme Generator files
+  install node.js, and download readme-generator files.
 
 
   ## Usage 
 
-  run "node index.js" in the terminal, and answer the questions
+  run "node index.js" in teh terminal, and answer the questions to generate a Readme.
 
   ## License
 
-  Mozilla Public License 2.0
+  Eclipse Public License 2.0
 
 
   ## Contributing 
 
-  Feel free to contribute.
+  Feel free to contribute
 
   ## Questions
 

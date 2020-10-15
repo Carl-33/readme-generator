@@ -54,6 +54,11 @@ function promptUser() {
     },
     {
       type: "input",
+      name: "image",
+      message: "Include a screenshot of the finished application. Follow the sample format `![Alt Text](imageName.jpg) :"
+    },
+    {
+      type: "input",
       name: "installation",
       message: "Installation instructions: "
     },
@@ -86,6 +91,7 @@ function generateMarkdown(answers) {
 
   ## Description
   ${answers.description}
+  ${answers.image}
 
   ## Table of Contents
   * [Installation](#installation)
