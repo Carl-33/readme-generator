@@ -3,7 +3,7 @@
 
   ## Description
   Answer the brief questions to generate a readme for your application.
-  ![readme image](./assets/Capture2.JPG)
+  ![readme image](./Main/assets/Capture2.JPG)
 
   ## Table of Contents
   * [Installation](#installation)
